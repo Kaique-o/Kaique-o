@@ -51,16 +51,6 @@
   </a>
 </p>
 
----
-
-### 🖼️ Estética é poder
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaique-o&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-o&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
 
 <p align="center">
   <i>“Eficiência não é pressa — é saber onde gastar energia.”</i>
