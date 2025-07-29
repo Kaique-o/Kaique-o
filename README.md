@@ -40,13 +40,13 @@
 ### 🌐 Onde me encontrar
 
 <p>
-  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/kaique-oliveira-24b710269" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kaique.oli@hotmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/SEU_USUARIO/" target="_blank">
+  <a href="https://www.instagram.com/kaique__o/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
@@ -57,7 +57,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaique-o&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-o&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
