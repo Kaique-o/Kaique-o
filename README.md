@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">👋 Oi, eu sou o Kaique</h1>
+<p align="center">
+  <i>Administrador por formação, estrategista por natureza — viciado em eficiência, dados e soluções que fazem sentido.</i>
+</p>
 
-<!--
-**Kaique-o/Kaique-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Formado em Administração – apaixonado por processos, organização e decisões baseadas em dados.  
+- 🛠️ Uso o GitHub principalmente pra versionar queries SQL complexas (ERP Sankhya), planilhas avançadas em Excel e scripts de automação.  
+- 🎯 Sempre buscando clareza, lógica e otimização em tudo que faço.  
+- 💡 Adoro testar ferramentas novas, montar dashboards e construir soluções simples pra problemas complexos.
+
+---
+
+### 🧰 Ferramentas e Tecnologias que uso
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="30" alt="Excel"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="30" alt="Power BI"/>
+</p>
+
+---
+
+### 📊 Projetos em andamento
+
+- `erp-sankhya-sql` — versão e documentação de queries complexas
+- `dashboards-powerbi` — análises visuais com foco em negócios
+- `planilhas-automatizadas` — Excel avançado com fórmulas, macros e lógica de negócios
+
+---
+
+### 🌐 Onde me encontrar
+
+<p>
+  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:SEUEMAIL@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/SEU_USUARIO/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🖼️ Estética é poder
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <i>“Eficiência não é pressa — é saber onde gastar energia.”</i>
+</p>
