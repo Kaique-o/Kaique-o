@@ -1,4 +1,4 @@
-<h1 align="center">👋 Oi, eu sou o Kaique</h1>
+<h1 align="center">Hello World</h1>
 <p align="center">
   <i>Administrador por formação, estrategista por natureza — viciado em eficiência, dados e soluções que fazem sentido.</i>
 </p>
